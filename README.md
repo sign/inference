@@ -1,6 +1,8 @@
-👋 Sign Language Inference
+<h1 align="center">Sign Language Inference</h1>
 
-Full inference pipeline for sign language machine translation.
+<p align="center">
+  <i>Full inference pipeline for sign language machine translation.</i>
+</p>
 
 <p align="center">
   <a href="https://github.com/sign/.github/blob/main/CONTRIBUTING.md">Contribution Guidelines</a>
